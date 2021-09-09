@@ -1,0 +1,3 @@
+include ':mvbarcodereader'
+include ':app'
+rootProject.name = "QR_Scanner"
