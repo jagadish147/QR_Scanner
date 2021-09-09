@@ -30,7 +30,7 @@
         android:layout_margin="16dp"
         android:scaleType="fitXY"
         android:background="@android:color/transparent"
-        android:src="@drawable/ic_torch"
+        android:src="@drawable/ic_flash"
         android:clickable="true" />
 
 </FrameLayout>
